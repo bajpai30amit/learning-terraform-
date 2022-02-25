@@ -1,0 +1,10 @@
+gcp_credentials = "tf-amit.json"
+gcp_project_id = "learning-245417"
+gcp_region = "us-west1"
+gke_zones = ["us-west1-a"]
+gke_regional = false
+gke_network = "default"
+gke_subnetwork = "default"
+gke_default_nodepool_name = "test1-pool"
+gke_service_account = "tf-gke@learning-245417.iam.gserviceaccount.com"
+gke_cluster_name = "gke-tf-test"
